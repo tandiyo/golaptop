@@ -1,7 +1,7 @@
 {
   "name": "GoLaptop Malang - Service & Repair laptop or MacBook all brand",
   "short_name": "GoLaptop",
-  "start_url": "http://www.malangservicelaptop.com/",
+  "start_url": "http://www.malangservicelaptop.com/?utm_source=homescreen",
   "display": "standalone",
   "background_color": "#f8f8f8",
   "theme_color": "#0277bd",
